@@ -1,7 +1,6 @@
-# netlify.toml
 [build]
-  publish = "build/web"
   command = "flutter build web"
+  publish = "build/web"
 
 [[redirects]]
   from = "/*"
