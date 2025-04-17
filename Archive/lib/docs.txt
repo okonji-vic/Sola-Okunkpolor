@@ -1,0 +1,56 @@
+Things to get done
+7. All the book Dr. Sola needs to lead to the form page at least 
+
+4. All Learn more on the home page should lead to the respective pages ✅
+1. The get started on the slider should lead to the 'form page' ✅
+3. The slider in the home page needs a little padding under . It is currently cutting the slider changer ✅
+2. Dr. Sola’s solutions: the get started should lead to the respective pages ✅✅
+5. See all on gallery should lead to the gallery page.. ✅✅
+6. The short cuts on the footer should link to the correct respective pages for about, coaching etc ✅✅
+8. courses page: the header..the Text there needs to spread out closer to her image. It’s currently too far away from her image ✅✅
+9. When you proceed with the buy now on the shop page, the heading changes to blog …it needs to be fixed ✅✅
+
+10. Are there test accounts for the sign in and sign up?
+11. How can I then see say a course I purchased or thing?
+12. How about the admin area?
+
+GestureDetector(
+                        onTap: () {
+                          Navigator.of(context).pushNamed(route.trainingPage);
+                        },
+
+
+
+uncompleted
+//checkout
+//shop-mobile
+_____
+
+//partially worked on
+coaching sessions missing from Services>>Coaching/Mentoring (Copy what's in Consulting)
+Event: Space needed between tile and the area with 3 items is showing just 2 instead
+
+//homepage carousel - mobile
+//services>>coaching - mobile
+//link footers to actual pages
+
+>>JUDE:
+// Image in blog page
+// carousel for homepage mobile view
+
+//routes in the web address url
+_____
+completed
+//signup
+//signin
+//gallery-desktop
+//blog-desktop
+//blog_view-desktop
+//shop - desktop
+//view product - desktop
+
+//signup - mobile
+//login - mobile
+//gallery-mobile
+//blog-mobile 
+//blog_view-mobile
